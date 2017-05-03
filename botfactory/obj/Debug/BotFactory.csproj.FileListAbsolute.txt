@@ -1,0 +1,74 @@
+F:\Projects\BotFactory\BotFactory\obj\Debug\MainWindow.g.cs
+F:\Projects\BotFactory\BotFactory\obj\Debug\Pages\FactoryTest.g.cs
+F:\Projects\BotFactory\BotFactory\obj\Debug\Pages\UnitTest.g.cs
+F:\Projects\BotFactory\BotFactory\obj\Debug\App.g.cs
+F:\Projects\BotFactory\BotFactory\obj\Debug\BotFactory_MarkupCompile.cache
+F:\Projects\BotFactory\BotFactory\obj\Debug\BotFactory_MarkupCompile.lref
+F:\Projects\BotFactory\BotFactory\bin\Debug\BotFactory.exe.config
+F:\Projects\BotFactory\BotFactory\bin\Debug\BotFactory.exe
+F:\Projects\BotFactory\BotFactory\bin\Debug\BotFactory.pdb
+F:\Projects\BotFactory\BotFactory\obj\Debug\MainWindow.baml
+F:\Projects\BotFactory\BotFactory\obj\Debug\Pages\FactoryTest.baml
+F:\Projects\BotFactory\BotFactory\obj\Debug\Pages\UnitTest.baml
+F:\Projects\BotFactory\BotFactory\obj\Debug\BotFactory.g.resources
+F:\Projects\BotFactory\BotFactory\obj\Debug\BotFactory.Properties.Resources.resources
+F:\Projects\BotFactory\BotFactory\obj\Debug\BotFactory.csproj.GenerateResource.Cache
+F:\Projects\BotFactory\BotFactory\obj\Debug\BotFactory.exe
+F:\Projects\BotFactory\BotFactory\obj\Debug\BotFactory.pdb
+F:\Projects\BotFactory\BotFactory\obj\Debug\BotFactory.csprojResolveAssemblyReference.cache
+F:\Projects\BotFactory\BotFactory\bin\Debug\Common.dll
+F:\Projects\BotFactory\BotFactory\bin\Debug\Factories.dll
+F:\Projects\BotFactory\BotFactory\bin\Debug\Models.dll
+F:\Projects\BotFactory\BotFactory\bin\Debug\Common.pdb
+F:\Projects\BotFactory\BotFactory\bin\Debug\Factories.pdb
+F:\Projects\BotFactory\BotFactory\bin\Debug\Models.pdb
+D:\stage\BotFactory\BotFactory\bin\Debug\BotFactory.exe.config
+D:\stage\BotFactory\BotFactory\obj\Debug\BotFactory.exe
+D:\stage\BotFactory\BotFactory\obj\Debug\BotFactory.pdb
+D:\stage\BotFactory\BotFactory\obj\Debug\BotFactory.csprojResolveAssemblyReference.cache
+D:\stage\BotFactory\BotFactory\obj\Debug\MainWindow.g.cs
+D:\stage\BotFactory\BotFactory\obj\Debug\Pages\FactoryTest.g.cs
+D:\stage\BotFactory\BotFactory\obj\Debug\Pages\UnitTest.g.cs
+D:\stage\BotFactory\BotFactory\obj\Debug\App.g.cs
+D:\stage\BotFactory\BotFactory\obj\Debug\BotFactory_MarkupCompile.cache
+D:\stage\BotFactory\BotFactory\obj\Debug\BotFactory_MarkupCompile.lref
+D:\stage\BotFactory\BotFactory\bin\Debug\BotFactory.exe
+D:\stage\BotFactory\BotFactory\bin\Debug\BotFactory.pdb
+D:\stage\BotFactory\BotFactory\bin\Debug\Common.dll
+D:\stage\BotFactory\BotFactory\bin\Debug\Factories.dll
+D:\stage\BotFactory\BotFactory\bin\Debug\Models.dll
+D:\stage\BotFactory\BotFactory\bin\Debug\Common.pdb
+D:\stage\BotFactory\BotFactory\bin\Debug\Factories.pdb
+D:\stage\BotFactory\BotFactory\bin\Debug\Models.pdb
+D:\stage\BotFactory\BotFactory\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\stage\BotFactory\BotFactory\obj\Debug\MainWindow.baml
+D:\stage\BotFactory\BotFactory\obj\Debug\Pages\FactoryTest.baml
+D:\stage\BotFactory\BotFactory\obj\Debug\Pages\UnitTest.baml
+D:\stage\BotFactory\BotFactory\obj\Debug\BotFactory.g.resources
+D:\stage\BotFactory\BotFactory\obj\Debug\BotFactory.Properties.Resources.resources
+D:\stage\BotFactory\BotFactory\obj\Debug\BotFactory.csproj.GenerateResource.Cache
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\BotFactory.csprojResolveAssemblyReference.cache
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\MainWindow.g.cs
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\Pages\FactoryTest.g.cs
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\Pages\UnitTest.g.cs
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\App.g.cs
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\BotFactory_MarkupCompile.cache
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\BotFactory_MarkupCompile.lref
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\BotFactory.exe
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\BotFactory.pdb
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\BotFactory.exe.config
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\BotFactory.exe
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\BotFactory.pdb
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\Common.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\Factories.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\Models.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\Common.pdb
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\Factories.pdb
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\Models.pdb
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\MainWindow.baml
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\Pages\FactoryTest.baml
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\Pages\UnitTest.baml
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\BotFactory.g.resources
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\BotFactory.Properties.Resources.resources
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\botfactory\obj\Debug\BotFactory.csproj.GenerateResource.Cache

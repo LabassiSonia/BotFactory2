@@ -1,0 +1,5 @@
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Common\bin\Debug\Common.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Common\bin\Debug\Common.pdb
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Common\obj\Debug\BotFactory.Common.csprojResolveAssemblyReference.cache
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Common\obj\Debug\Common.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Common\obj\Debug\Common.pdb

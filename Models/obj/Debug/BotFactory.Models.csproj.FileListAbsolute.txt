@@ -1,0 +1,7 @@
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Models\bin\Debug\Models.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Models\bin\Debug\Models.pdb
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Models\bin\Debug\Common.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Models\bin\Debug\Common.pdb
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Models\obj\Debug\BotFactory.Models.csprojResolveAssemblyReference.cache
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Models\obj\Debug\Models.dll
+C:\Users\sonia\OneDrive\Documents\Visual Studio 2017\Projects\BF\Models\obj\Debug\Models.pdb
